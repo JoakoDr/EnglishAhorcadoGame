@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nivel">
+        <item>FÁCIL</item>
+        <item>DIFICIL</item>
+    </string-array>
+    <string-array name="descripcionnivel">
+        <item>Tienes 6 intentos para acertar la palabra</item>
+        <item>Tienes 4 intentos para acertar la palabra</item>
+    </string-array>
+    <string-array name="categoria">
+        <item>NATURALEZA</item>
+        <item>CIUDADES</item>
+    </string-array>
+    <string-array name="descripcioncategoria">
+        <item>En esta categoria estan: animales, flores, frutas y plantas</item>
+        <item>En esta categoria estan algunas de las ciudades de todo el mundo</item>
+    </string-array>
+    <string-array name="NATURALEZA">
+        <item>PERRO</item>
+        <item>GATO</item>
+        <item>CABALLO</item>
+        <item>...</item>
+    </string-array>
+    <string-array name="CIUDADES">
+        <item>BOGOTA</item>
+        <item>USHUAIA</item>
+        <item>CALLAO</item>
+        <item>...</item>
+    </string-array>
+</resources>
